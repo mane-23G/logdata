@@ -10,7 +10,7 @@ logdata \[-a -s -f \<file\>\] username ...
 The options are: <br>
 -a : Show the log times for all users that have entries in the file _PATH_WTMP. <br>
 -s : Produce a line of output at the end showing the totals for all users listed. <br>
--f <file> : Use <file> instead of _PATH_WTMP. <br>
+-f \<file\> : Use <file> instead of _PATH_WTMP. <br>
 <br>
 ### Features
 <br>
