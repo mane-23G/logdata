@@ -20,7 +20,7 @@ The options are: <br>
 -If any value is zero, the units for that value are not displayed<br>
 <br>
 ### Defects/Shortcomings
--The time that the user is logged in is always inconsisent and not correct not sure why. 
+-The time that the user is logged in is always inconsisent and not correct not sure why. I know the total time is wrong because the last function was used supplied by a username and the summation of the time intervals was very different in comparison to the total time given by logdata for the same user.
 
 <br>
 This was last tested on 11/18/24 and was working as intended (with the stated defects).
