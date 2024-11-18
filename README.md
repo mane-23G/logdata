@@ -12,8 +12,7 @@ The options are: <br>
 -s : Produce a line of output at the end showing the totals for all users listed. <br>
 -f \<file\> : Use <file> instead of _PATH_WTMP. <br>
 <br>
-### Features
-<br>
+### Features<br>
 -If no username is given, the time for the current user is displayed
 -If the total time is less than a day, the days field is omitted
 -If it is less than an hour, the hours and days are omitted 
