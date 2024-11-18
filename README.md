@@ -25,7 +25,7 @@ The options are: <br>
 ### Defects/Shortcomings
 -The time that the user is logged in is always inconsisent and not correct not sure why. 
 
-
+<br><br>
 This was last tested on 11/18/24 and was working as intended (with the stated defects).
 
 Thank you to Professor Weiss for the assigment!
