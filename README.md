@@ -13,12 +13,12 @@ The options are: <br>
 -f \<file\> : Use <file> instead of _PATH_WTMP. <br>
 <br>
 ### Features<br>
--If no username is given, the time for the current user is displayed
--If the total time is less than a day, the days field is omitted
--If it is less than an hour, the hours and days are omitted 
--If it’s less than a minute, only the seconds are displayed
--If a username is given but there are no logins for the user, "0 seconds" is listed for that username
--If any value is zero, the units for that value are not displayed
+-If no username is given, the time for the current user is displayed<br>
+-If the total time is less than a day, the days field is omitted<br>
+-If it is less than an hour, the hours and days are omitted <br>
+-If it’s less than a minute, only the seconds are displayed<br>
+-If a username is given but there are no logins for the user, "0 seconds" is listed for that username<br>
+-If any value is zero, the units for that value are not displayed<br>
 <br>
 
 ### Defects/Shortcomings
